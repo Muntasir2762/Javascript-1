@@ -1,0 +1,20 @@
+
+
+Operator (Arithmatic Operator)
+
+20 + 10
+
++, -, *, /, %
+
+
+790 567
+
+The summation is = 1357
+
+
+Rahim has 1000tk. He went to market and purchased 10 eggs, 5 kitkat(s).
+Price of each eggs 10tk, Price of each kitkat 40tk.
+Find the remaining money.
+
+
+10 * 720 =
